@@ -1,9 +1,0 @@
-com\calculadora\model\Operacao.class
-com\calculadora\controller\CalculadoraController.class
-com\calculadora\model\Multiplicacao.class
-com\calculadora\model\OperacaoAbstrata.class
-com\calculadora\view\CalculadoraView.class
-com\calculadora\model\Adicao.class
-com\calculadora\model\Divisao.class
-com\calculadora\Main.class
-com\calculadora\model\Subtracao.class
